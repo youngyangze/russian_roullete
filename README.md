@@ -1,0 +1,2 @@
+# russian_roullete
+buckshot
